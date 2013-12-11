@@ -22,11 +22,7 @@
       <scope>test</scope>
     </dependency>
 	
-	<dependency>
-  <groupId>olfaInk</groupId>
-  <artifactId>spongeBob</artifactId>
-  <version>1.0-SNAPSHOT</version>
-</dependency>
+	
   </dependencies>
     <distributionManagement>
                 <!-- Publish versioned releases here -->
